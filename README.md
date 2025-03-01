@@ -10,6 +10,6 @@ This repository contains solutions to LeetCode problems as part of the LeetCode 
 Feel free to submit pull requests with new solutions or optimizations!
 
 ## Resources
-[LeetCode Official Site](https://leetcode.com/)
-[NeetCode Study Guide](https://neetcode.io/)
-[Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [LeetCode Official Site](https://leetcode.com/)
+- [NeetCode Study Guide](https://neetcode.io/)
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
