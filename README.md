@@ -13,3 +13,8 @@ Feel free to submit pull requests with new solutions or optimizations!
 - [LeetCode Official Site](https://leetcode.com/)
 - [NeetCode Study Guide](https://neetcode.io/)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- [NeetCode - YouTube](https://www.youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g)
+- [CodeSignal](https://app.codesignal.com/)
+- [Visualizing Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Tandon Technical Interview Guide](https://spiffy-dash-ad2.notion.site/Technical-Interview-Guide-NYU-Tandon-Career-Hub-1733763096008027a4bfdeac33ae41ee)
