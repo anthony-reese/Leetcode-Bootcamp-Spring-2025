@@ -1,4 +1,4 @@
-# LeetCode Bootcamp Homework Problems
+# LeetCode Bootcamp Problems
 This repository contains solutions to LeetCode problems as part of the LeetCode Bootcamp homework. Each problem includes solutions in multiple programming languages, along with explanations and insights into different problem-solving patterns.
 | #    | Title | Difficulty | Solution | Pattern |
 |------|-------|------------|----------|---------|
