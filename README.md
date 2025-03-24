@@ -8,6 +8,9 @@ This repository contains solutions to LeetCode problems as part of the LeetCode 
 | 8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%202%3A%20Strings%20and%20HashMap/cpp/8_String_to_Integer_(atoi).cpp)  | Finite State Machine  |
 | 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%202%3A%20Strings%20and%20HashMap/cpp/438_Find_All_Anagrams_in_a_String.cpp)  | Sliding Window  |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%202%3A%20Strings%20and%20HashMap/cpp/151_Reverse_Words_in_a_String.cpp)  | Two Pointers  |
+| 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)  | Easy  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%203%3A%20Linked%20Lists%20and%20Matrices/cpp/234_Palindrome_Linked_List.cpp)  | Two Pointers  |
+| 143  | [Reorder List](https://leetcode.com/problems/reorder-list/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%203%3A%20Linked%20Lists%20and%20Matrices/cpp/143_Reorder_List.cpp)  | Two Pointers  |
+| 73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%203%3A%20Linked%20Lists%20and%20Matrices/cpp/73_Set_Matrix_Zeroes.cpp)  | In-place  |
 
 ## Contributions
 Feel free to submit pull requests with new solutions or optimizations!
