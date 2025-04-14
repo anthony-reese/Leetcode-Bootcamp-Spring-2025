@@ -16,6 +16,7 @@ This repository contains solutions to LeetCode problems as part of the LeetCode 
 | 2327  | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%204%3A%20Graphs%2C%20Stacks%20%26%20Queues/cpp/2327_Number_of_People_Aware_of_a_Secret.cpp)  | Dynamic Programming  |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%206%3A%20Tree%2C%20Trie%2C%20Heap/cpp/236_Lowest_Common_Ancestor_of_a_Binary_Tree.cpp)  | Tree DFS (Depth First Search)  |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%206%3A%20Tree%2C%20Trie%2C%20Heap/cpp/347_Top_K_Frequent_Elements.cpp)  | Bucket Sort  |
+| 139  | [Word Break](https://leetcode.com/problems/word-break/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%206%3A%20Tree%2C%20Trie%2C%20Heap/cpp/139_Word_Break.cpp)  | Dynamic Programming  |
 
 ## Contributions
 Feel free to submit pull requests with new solutions or optimizations!
