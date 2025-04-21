@@ -19,6 +19,7 @@ This repository contains solutions to LeetCode problems as part of the LeetCode 
 | 139  | [Word Break](https://leetcode.com/problems/word-break/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%206%3A%20Tree%2C%20Trie%2C%20Heap/cpp/139_Word_Break.cpp)  | Dynamic Programming  |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%207%3A%20Search%20Algorithms%3A%20Binary%20Search%2C%20DFS%2C%20BFS/cpp/199_Binary_Tree_Right_Side_View.cpp)  | BFS (Breadth First Search)  |
 | 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%207%3A%20Search%20Algorithms%3A%20Binary%20Search%2C%20DFS%2C%20BFS/cpp/994_Rotting_Oranges.cpp)  | BFS (Breadth First Search)  |
+| 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%207%3A%20Search%20Algorithms%3A%20Binary%20Search%2C%20DFS%2C%20BFS/cpp/210_Course_Schedule_II.cpp)  | BFS (Breadth First Search)  |
 
 ## Contributions
 Feel free to submit pull requests with new solutions or optimizations!
