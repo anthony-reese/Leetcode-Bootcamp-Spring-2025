@@ -21,6 +21,7 @@ This repository contains solutions to LeetCode problems as part of the LeetCode 
 | 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%207%3A%20Search%20Algorithms%3A%20Binary%20Search%2C%20DFS%2C%20BFS/cpp/994_Rotting_Oranges.cpp)  | BFS (Breadth First Search)  |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%207%3A%20Search%20Algorithms%3A%20Binary%20Search%2C%20DFS%2C%20BFS/cpp/210_Course_Schedule_II.cpp)  | BFS (Breadth First Search)  |
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%208%3A%20Dynamic%20Programming%20%26%20Greedy%20Algorithms/cpp/416_Partition_Equal_Subset_Sum.cpp)  | Dynamic Programming  |
+| 322  | [Coin Change](https://leetcode.com/problems/coin-change/description/)  | Medium  | [C++](https://github.com/anthony-reese/Leetcode-Bootcamp-Spring-2025/blob/main/Week%208%3A%20Dynamic%20Programming%20%26%20Greedy%20Algorithms/cpp/322%20_Coin_Change.cpp)  | Dynamic Programming  |
 
 ## Contributions
 Feel free to submit pull requests with new solutions or optimizations!
